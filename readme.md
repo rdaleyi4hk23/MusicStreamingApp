@@ -1,0 +1,1 @@
+MusicStreamingApp is a popular platform that allows users to stream and discover music from a vast library, create playlists, and share their favorite songs with friends.
